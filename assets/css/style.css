@@ -42,4 +42,7 @@ header {
 }
 .nav-item {
     text-decoration: none;
+    font-size: 1.15rem;
+    color: #fff;
+    font-weight: 400;
 }
