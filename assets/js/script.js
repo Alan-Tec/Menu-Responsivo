@@ -4,6 +4,7 @@ function menuShow() {
         menuMobile.classList.remove('open');
         document.querySelector('.icon').scr = "assets/img/Carol.jpeg";
     } else {
-        menuMobile.classList.sdd('open');
+        menuMobile.classList.add('open');
+        document.querySelector('.icon').scr = "assets/img/Carol.jpg";
     }
 }
