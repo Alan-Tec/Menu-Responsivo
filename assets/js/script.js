@@ -5,6 +5,6 @@ function menuShow() {
         document.querySelector('.icon').scr = "assets/img/Carol.jpeg";
     } else {
         menuMobile.classList.add('open');
-        document.querySelector('.icon').scr = "assets/img/Carol.jpg";
+        document.querySelector('.icon').scr = "assets/img/Carol.jpeg";
     }
 }
